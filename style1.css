@@ -1,0 +1,12 @@
+input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid rgb(228, 178, 178);
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: rgb(211, 109, 109);
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+  }
